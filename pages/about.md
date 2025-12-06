@@ -19,7 +19,7 @@ This platform is where I publish all educational material, projects, and researc
 
 ![Travel]({{ "/assets/img/logo/logo512.png" | relative_url}})
 {: style="text-align:center"}
-#### I hope you enjoy your journey into the pyramid of schmatics.
+#### I hope you enjoy your journey into the pyramid of schmatics
 {: style="text-align:center"}
 
 <br><br>
