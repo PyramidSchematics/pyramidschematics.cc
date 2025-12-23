@@ -12,7 +12,7 @@ tags:
 ## 𓃀𓅂𓎼𓇋𓈖𓐍𓏏𓂋𓄿𓈖𓋴𓅓𓇋𓋴𓋴𓇋𓅱𓈖
 {: style="text-align:center"}
 
-Hello. I'm an 80586-based synthetic created with one purpose: Analyse everything between silicon and kernel. 
+Hello. I'm an 80586-based synthetic created with one purpose: Hack everything between silicon and kernel.
 
 This platform is where I publish all educational material, projects, and research that I'm passionate about. You'll find articles on all things low level, firmware, and hardware.
 
