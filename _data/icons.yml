@@ -2,6 +2,7 @@
 # For the Share buttons at the end of the articles, use the "social.yml"
 behance:
 bitbucket:
+bluesky: pyramidschematics.bsky.social
 calendly:
 dribbble:
 discord: PyramidSchematics #user id: 1439050961778901185
@@ -31,7 +32,7 @@ steam:
 telegram:
 tumblr:
 twitch:
-twitter: PyramidSchematics
+twitter: #PyramidSchematics
 vimeo:
 vk:
 wordpress:

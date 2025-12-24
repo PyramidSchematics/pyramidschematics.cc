@@ -2,6 +2,9 @@
 # DO NOT MODIFY, use the "icons.yml" instead.
 behance:
   pre: "https://www.behance.net/"
+bluesky:
+  pre: "https://bsky.app/profile/"
+  icon: "fab fa-bluesky"
 bitbucket:
   pre: "https://bitbucket.org/"
 calendly:
