@@ -117,6 +117,16 @@
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400;
 }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-warning { #{$fa-icon-property}: unquote("\"#{ $fa-var-triangle-exclamation }\""); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-calendar { #{$fa-icon-property}: unquote("\"#{ $fa-var-calendar-days }\""); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-arrows-v { #{$fa-icon-property}: unquote("\"#{ $fa-var-up-down }\""); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-arrows-h { #{$fa-icon-property}: unquote("\"#{ $fa-var-left-right }\""); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-bar-chart { #{$fa-icon-property}: unquote("\"#{ $fa-var-chart-column }\""); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-bar-chart-o { #{$fa-icon-property}: unquote("\"#{ $fa-var-chart-column }\""); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-bluesky {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
 .#{$fa-css-prefix}.#{$fa-css-prefix}-twitter-square { #{$fa-icon-property}: unquote("\"#{ $fa-var-square-twitter }\""); }
 .#{$fa-css-prefix}.#{$fa-css-prefix}-facebook-square {
   font-family: 'Font Awesome 6 Brands';
